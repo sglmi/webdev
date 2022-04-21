@@ -127,9 +127,7 @@ a {
 .rightside img {
   width: 72px;
 }
-.board {
-  /* border: 1px solid pink; */
-}
+
 .board > h1{
   font-size: 2rem;
 }
